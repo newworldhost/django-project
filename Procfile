@@ -1,1 +1,1 @@
-web: gunicorn django-hello-app.wsgi
+web: gunicorn my_project.wsgi
