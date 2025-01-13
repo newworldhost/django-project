@@ -1,0 +1,1 @@
+web: gunicorn django-hello-app.wsgi
